@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --name MoniNet --icon moninet.ico --version-file version.txt main.py
