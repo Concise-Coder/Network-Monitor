@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Created by \`Concise Coder`
+Created by `Concise Coder`
 Feel free to contribute or report issues!
 
 ---
