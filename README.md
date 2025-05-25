@@ -52,10 +52,10 @@ To create a standalone Windows executable using PyInstaller, use the command in 
 Typically, it looks like this:
 
 ```bash
-pyinstaller --noconsole --onefile --icon=moninet.ico main.py
+pyinstaller --onefile --noconsole --name MoniNet --icon moninet.ico --version-file version.txt main.py
 ```
 
-This generates an `.exe` file inside the `dist` folder.
+This generates an `MoniNet.exe` file inside the `dist` folder.
 
 ---
 
@@ -89,7 +89,3 @@ Feel free to contribute or report issues!
 * Uses the [`psutil`](https://github.com/giampaolo/psutil) library for network stats
 * Uses Python's built-in `tkinter` for the GUI
 * Inspired by simple desktop network monitors
-
-```
-
-```
