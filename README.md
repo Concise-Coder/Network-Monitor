@@ -1,6 +1,3 @@
-Sure! Here's the full content of a well-structured `README.md` for your network speed monitor project:
-
-````markdown
 # Network Speed Monitor
 
 A lightweight Python tool that monitors your network upload and download speeds in real-time using `psutil` and `Tkinter`.  
@@ -95,7 +92,4 @@ Feel free to contribute or report issues!
 
 ```
 
----
-
-Would you like me to help you with a **LICENSE** file next?
 ```
